@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://13.233.208.180:8081/repository/MYREPO/</url>
+            <url>http://13.233.208.180:8081/repository/HELLO-SNAP/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://13.233.208.180:8081/repository/MYREPO/</url>
+            <url>http://13.233.208.180:8081/repository/HELLO-SNAP/</url>
         </snapshotRepository>
     </distributionManagement> 
   <dependencies>
