@@ -25,7 +25,7 @@
       </plugin>
     </plugins>
   </build>
-   <distributionManagement>
+ <!--  <distributionManagement>
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
@@ -36,7 +36,7 @@
             <name>Internal Snapshot Releases</name>
             <url>http://13.233.208.180:8081/repository/HELLO-SNAP/</url>
         </snapshotRepository>
-    </distributionManagement> 
+    </distributionManagement> --> 
   <dependencies>
   	<dependency>
   		<groupId>javax.servlet</groupId>
