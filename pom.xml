@@ -25,18 +25,18 @@
       </plugin>
     </plugins>
   </build>
- <!--  <distributionManagement>
+  <distributionManagement>
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://13.233.208.180:8081/repository/HELLO-SNAP/</url>
+            <url></url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://13.233.208.180:8081/repository/HELLO-SNAP/</url>
+            <url>http://15.206.123.42:8081/repository/HELNO/</url>
         </snapshotRepository>
-    </distributionManagement> --> 
+    </distributionManagement> 
   <dependencies>
   	<dependency>
   		<groupId>javax.servlet</groupId>
